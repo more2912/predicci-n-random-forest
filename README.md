@@ -28,7 +28,7 @@ Error Absoluto Medio (MAE) con Random Forest: 5.044719749999971
 ## Cómo Ejecutar el Proyecto:
 
 1. Clona este repositorio:
-   ```bash
+   git clone https://github.com/more2912/prediccion-random-forest.git
 2. pip install -r requirements.txt
 3. Ejecuta: python script_principal.py
    git clone https://github.com/more2912/prediccion-random-forest.git
